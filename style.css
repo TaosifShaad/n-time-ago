@@ -1,0 +1,33 @@
+body {
+  background: linear-gradient(45deg, orange, yellow);
+}
+
+.time {
+  height: 270px;
+  max-width: 500px;
+  margin: auto;
+  margin-block-start: 250px;
+  text-align: center;
+  overflow: auto;
+}
+
+.para {
+  text-align: center;
+  font-size: 100px;
+  margin-block-start: 50px;
+}
+
+.btn-feature {
+  margin: auto;
+  margin-block-start: 70px;
+  max-width: 500px;
+  text-align: center;
+  height: 100px;
+  background-color: rgb(255 255 255 / 55%);
+  overflow: auto;
+  margin-block-end: 200px;
+}
+
+.btn, span {
+  margin-block-start: 50px;
+}
